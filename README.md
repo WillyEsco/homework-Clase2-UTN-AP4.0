@@ -1,4 +1,6 @@
 # homework-Clase2-UTN-AP4.0
+## Título
+### Subtítulo
 Clase 2 - “Desarrollador Java inicial”
 Git y Github
 1. Si aún no lo hizo, cree una cuenta en Github (o Gitlab si prefiere), e instale y configure
@@ -22,6 +24,5 @@ de cada clase tengan un proyecto con los ejercicios con los que se va avanzando.
 arrancar subiendo los que realizó en la clase 1. Para no tener problemas, también
 recomendamos que en la raíz del proyecto tenga un archivo .gitignore (notar el punto “.” al
 principio del nombre del archivo) para evitar versionar cosas que no corresponden. Puede
-descargarlo/copiarlo de este link y se agrega al proyecto como cualquier otro archivo, solo que
-cumple la función vista en clase.
-1
+descargarlo/copiarlo de este link y se agrega al proyecto como cualquier otro archivo, solo que cumple la función vista en clase.
+
