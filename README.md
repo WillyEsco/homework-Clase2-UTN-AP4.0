@@ -1,8 +1,7 @@
 # homework-Clase2-UTN-AP4.0
-## Título
-### Subtítulo
-Clase 2 - “Desarrollador Java inicial”
-Git y Github
+## Clase 2 - “Desarrollador Java inicial”
+### Git y Github
+
 1. Si aún no lo hizo, cree una cuenta en Github (o Gitlab si prefiere), e instale y configure
 el cliente de GIT que va a utilizar (colocando su nombre y dirección de correo
 electrónico), por ejemplo GitHub Desktop.
